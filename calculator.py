@@ -1,5 +1,5 @@
-print("Welcome to this Calculator .")
-print("Press '1' to do Addition . Press '2' to do Subtraction . Press '3' to Multiply . Press '4' to Divide .")
+print("Calculator App")
+print("'1'for Addition, '2'for Subtraction, '3' to Multiply, '4' to Divide .")
 
 Choice =   int(input("Choose what you want to do . "))
 num1   =   int(input("Enter The First Number - "))
